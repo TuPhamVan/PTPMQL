@@ -1,0 +1,15 @@
+F:\Net_Core_API\NewApp\bin\Debug\net8.0\NewApp.exe
+F:\Net_Core_API\NewApp\bin\Debug\net8.0\NewApp.deps.json
+F:\Net_Core_API\NewApp\bin\Debug\net8.0\NewApp.runtimeconfig.json
+F:\Net_Core_API\NewApp\bin\Debug\net8.0\NewApp.dll
+F:\Net_Core_API\NewApp\bin\Debug\net8.0\NewApp.pdb
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.AssemblyInfoInputs.cache
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.AssemblyInfo.cs
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.csproj.CoreCompileInputs.cache
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.sourcelink.json
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.dll
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\refint\NewApp.dll
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.pdb
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\NewApp.genruntimeconfig.cache
+F:\Net_Core_API\NewApp\obj\Debug\net8.0\ref\NewApp.dll
