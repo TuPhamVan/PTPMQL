@@ -5,12 +5,11 @@ namespace MvcMovie.Controllers
     public class Person : Controller
     { 
         // GET: /HelloWorld/
-       public IActionResult Index() {
-        return View();
-       }
-        // GET: /HelloWorld/Welcome/ 
-
-        public string Welcome()
+        public string IndexPerson()
+        {
+            return "Person test Index123";
+        }
+        public string WelcomePerson()
         {
             return "Person test welcome";
         }
