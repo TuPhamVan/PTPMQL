@@ -2,12 +2,12 @@ using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
 namespace MvcMovie.Controllers
 {
-    public class Person : Controller
+    public class PersonController : Controller
     { 
         // GET: /HelloWorld/
-        public string IndexPerson()
+        public IActionResult Personindex()
         {
-            return "Person test Index123";
+            return View();
         }
         public string WelcomePerson()
         {
