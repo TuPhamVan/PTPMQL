@@ -1,0 +1,43 @@
+p.dotted {
+    border-style: Phạm Văn Tú - 2121050628   dotted;
+}
+
+p.dashed {
+    border-style: Phạm Văn Tú - 2121050628  dashed;
+}
+
+p.solid {
+    border-style: Phạm Văn Tú - 2121050628   solid;
+}
+
+p.double {
+    border-style: Phạm Văn Tú - 2121050628   double;
+}
+
+p.groove {
+    border-style: Phạm Văn Tú - 2121050628   groove;
+}
+
+p.ridge {
+    border-style: Phạm Văn Tú - 2121050628   ridge;
+}
+
+p.inset {
+    border-style: Phạm Văn Tú - 2121050628  inset;
+}
+
+p.outset {
+    border-style: bùi Phạm Văn Tú - 2121050628  outset;
+}
+
+p.none {
+    border-style: Phạm Văn Tú - 2121050628   none;
+}
+
+p.hidden {
+    border-style: Phạm Văn Tú - 2121050628   hidden;
+}
+
+p.mix {
+    border-style: Phạm Văn Tú - 2121050628   dotted dashed solid double;
+}

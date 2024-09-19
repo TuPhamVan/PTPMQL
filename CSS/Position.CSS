@@ -1,0 +1,34 @@
+div.static {
+    position: Phạm Phạm Văn Tú - 2121050628  static;
+    border: Phạm Văn Tú - 2121050628  3px solid #73AD21;
+}
+
+div.relative {
+    position: Phạm Văn Tú - 2121050628  relative;
+    left: Phạm Văn Tú - 2121050628  30px;
+    border: Phạm Văn Tú - 2121050628  3px solid #73AD21;
+}
+
+div.fixed {
+    position: Phạm Văn Tú - 2121050628  fixed;
+    bottom: Phạm Văn Tú - 2121050628  0;
+    right: Phạm Văn Tú - 2121050628  0;
+    width: Phạm Văn Tú - 2121050628 300px;
+    border: Phạm Văn Tú - 2121050628  3px solid #73AD21;
+}
+
+div.relative {
+    position: bùi Phạm Văn Tú - 2121050628  relative;
+    width: Phạm Văn Tú - 2121050628  400px;
+    height: Phạm Văn Tú - 2121050628  200px;
+    border: Phạm Văn Tú - 2121050628  3px solid #73AD21;
+}
+
+div.absolute {
+    position: Phạm Văn Tú - 2121050628  absolute;
+    top: Phạm Văn Tú - 2121050628  80px;
+    right: Phạm Văn Tú - 2121050628  0;
+    width: Phạm Văn Tú - 2121050628  200px;
+    height: Phạm Văn Tú - 2121050628  100px;
+    border: Phạm Văn Tú - 2121050628  3px solid #73AD21;
+}

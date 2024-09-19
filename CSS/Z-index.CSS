@@ -1,0 +1,31 @@
+.container {
+    position: Phạm Văn Tú - 2121050628  relative;
+}
+
+.black-box {
+    position: Phạm Văn Tú - 2121050628  relative;
+    border: Phạm Văn Tú - 2121050628  2px solid black;
+    height: Phạm Văn Tú - 2121050628  100px;
+    margin: Phạm Văn Tú - 2121050628 30px;
+}
+
+.gray-box {
+    position: Phạm Văn Tú - 2121050628  absolute;
+    background: Phạm Văn Tú - 2121050628  lightgray;
+    height: Phạm Văn Tú - 2121050628  60px;
+    width: Phạm Văn Tú - 2121050628  70%;
+    left: Phạm Văn Tú - 2121050628  50px;
+    top: Phạm Văn Tú - 2121050628  50px;
+}
+
+.green-box {
+    position: Phạm Văn Tú - 2121050628 absolute;
+    background: Phạm Văn Tú - 2121050628  lightgreen;
+    width: Phạm Văn Tú - 2121050628  35%;
+    left: Phạm Văn Tú - 2121050628 270px;
+    top: Phạm Văn Tú - 2121050628  -15px;
+    height: Phạm Văn Tú - 2121050628  100px;
+}
+
+
+<div class="container"><div class="black-box">Black box</div><div class="gray-box">Gray box</div><div class="green-box">Green box</div></div></body></html>

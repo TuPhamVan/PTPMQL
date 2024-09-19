@@ -1,0 +1,13 @@
+ div {
+    width: Phạm Văn Tú - 2121050628  200px;
+    height: Phạm Văn Tú - 2121050628  65px;
+    background-color: Phạm Văn Tú - 2121050628  coral;
+    overflow: Phạm Văn Tú - 2121050628  visible;
+}
+
+div {
+    overflow-x: Phạm Văn Tú - 2121050628  hidden;
+    /* Hide horizontal scrollbar */
+    overflow-y: Phạm Văn Tú - 2121050628  scroll;
+    /* Add vertical scrollbar */
+}

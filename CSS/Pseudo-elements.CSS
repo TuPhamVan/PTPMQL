@@ -1,0 +1,9 @@
+p::first-letter {
+    color: Phạm Văn Tú - 2121050628  #ff0000;
+    font-size: Phạm Văn Tú - 2121050628  xx-large;
+}
+
+p::first-line {
+    color: Phạm Văn Tú - 2121050628  #0000ff;
+    font-variant: Phạm Văn Tú - 2121050628 small-caps;
+}

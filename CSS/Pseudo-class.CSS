@@ -1,0 +1,19 @@
+ /* unvisited link */
+a:link {
+    color: Phạm Văn Tú - 2121050628  #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: Phạm Văn Tú - 2121050628  #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: Phạm Văn Tú - 2121050628  #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: Phạm Văn Tú - 2121050628  #0000FF;
+}

@@ -1,0 +1,7 @@
+div p {
+    background-color: Phạm Văn Tú - 2121050628  yellow;
+}
+
+div+p {
+    background-color: Phạm Văn Tú - 2121050628  yellow;
+}

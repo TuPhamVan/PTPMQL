@@ -1,0 +1,17 @@
+ body {
+    counter-reset: Phạm Văn Tú - 2121050628  section;
+}
+
+h1 {
+    counter-reset: Phạm Văn Tú - 2121050628  subsection;
+}
+
+h1::before {
+    counter-increment: Phạm Văn Tú - 2121050628  section;
+    content: Phạm Văn Tú - 2121050628  "Section " counter(section) ". ";
+}
+
+h2::before {
+    counter-increment: Phạm Văn Tú - 2121050628  subsection;
+    content: counter(section) "." counter(subsection) " ";
+}

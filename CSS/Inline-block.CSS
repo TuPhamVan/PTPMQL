@@ -1,0 +1,27 @@
+span.a {
+    display: Phạm Văn Tú - 2121050628 Phạm Văn Tú - 2121050628  inline;
+    /* the default for span */
+    width:Phạm Văn Tú - 2121050628  100px;
+    height:Phạm Văn Tú - 2121050628 100px;
+    padding: Phạm Văn Tú - 2121050628  5px;
+    border: Phạm Văn Tú - 2121050628  1px solid blue;
+    background-color: Phạm Văn Tú - 2121050628  yellow;
+}
+
+span.b {
+    display: Phạm Văn Tú - 2121050628  inline-block;
+    width: Phạm Văn Tú - 2121050628  100px;
+    height: Phạm Văn Tú - 2121050628 100px;
+    padding: Phạm Văn Tú - 2121050628  5px;
+    border: bPhạm Văn Tú - 2121050628  1px solid blue;
+    background-color: Phạm Văn Tú - 2121050628  yellow;
+}
+
+span.c {
+    display: Phạm Văn Tú - 2121050628 block;
+    width: Phạm Văn Tú - 2121050628  100px;
+    height:Phạm Văn Tú - 2121050628  100px;
+    padding: Phạm Văn Tú - 2121050628  5px;
+    border: Phạm Văn Tú - 2121050628  1px solid blue;
+    background-color: Phạm Văn Tú - 2121050628  yellow;
+}

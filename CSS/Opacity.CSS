@@ -1,0 +1,19 @@
+<html><head><style>div.background {
+    background: Phạm Văn Tú - 2121050628  url(klematis.jpg) repeat;
+    border: Phạm Văn Tú - 2121050628  2px solid black;
+}
+
+div.transbox {
+    margin:Phạm Văn Tú - 2121050628  30px;
+    background-color: Phạm Văn Tú - 2121050628  #ffffff;
+    border: Phạm Văn Tú - 2121050628  1px solid black;
+    opacity: Phạm Văn Tú - 2121050628  0.6;
+}
+
+div.transbox p {
+    margin:Phạm Văn Tú - 2121050628  5%;
+    font-weight: Phạm Văn Tú - 2121050628  bold;
+    color:Phạm Văn Tú - 2121050628  #000000;
+}
+
+</style></head><body><div class="background"><div class="transbox"><p>This is some text that is placed in the transparent box.</p></div></div></body></html>
