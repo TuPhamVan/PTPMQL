@@ -5,9 +5,9 @@ namespace MvcMovie.Controllers
     public class PersonController : Controller
     { 
         // GET: /HelloWorld/
-        public string IndexPerson()
+        public IActionResult IndexPerson()
         {
-            return "Person test 123";
+            return View();
         }
         public string WelcomePerson()
         {

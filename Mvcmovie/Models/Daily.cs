@@ -1,0 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Mvcmovie.Models
+{
+    public class Daily : HeThongPhanPhoi
+    {
+        public string MaDaiLy {get; set;}
+        public string TenDaiLy {get; set;}
+        public string DiaChi {get; set;}
+        public string NguoiDaiDien {get; set;}
+        public string DienThoai {get; set;}
+        public string MaHTPP {get; set;}
+    }
+}
