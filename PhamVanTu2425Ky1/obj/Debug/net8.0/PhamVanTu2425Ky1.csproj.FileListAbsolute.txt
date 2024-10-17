@@ -1,0 +1,15 @@
+F:\Net_Core_API\PhamVanTu2425Ky1\bin\Debug\net8.0\PhamVanTu2425Ky1.exe
+F:\Net_Core_API\PhamVanTu2425Ky1\bin\Debug\net8.0\PhamVanTu2425Ky1.deps.json
+F:\Net_Core_API\PhamVanTu2425Ky1\bin\Debug\net8.0\PhamVanTu2425Ky1.runtimeconfig.json
+F:\Net_Core_API\PhamVanTu2425Ky1\bin\Debug\net8.0\PhamVanTu2425Ky1.dll
+F:\Net_Core_API\PhamVanTu2425Ky1\bin\Debug\net8.0\PhamVanTu2425Ky1.pdb
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.AssemblyInfoInputs.cache
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.AssemblyInfo.cs
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.csproj.CoreCompileInputs.cache
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.sourcelink.json
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.dll
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\refint\PhamVanTu2425Ky1.dll
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.pdb
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\PhamVanTu2425Ky1.genruntimeconfig.cache
+F:\Net_Core_API\PhamVanTu2425Ky1\obj\Debug\net8.0\ref\PhamVanTu2425Ky1.dll
